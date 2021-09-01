@@ -18,7 +18,7 @@ namespace GameOfDice
                 playDiceGame(N, M);
             }catch(Exception ex)
             {
-                Console.WriteLine("Something went wrong.");
+                Console.WriteLine("Something went wrong. {0}", ex.Message);
             }
         }
 
