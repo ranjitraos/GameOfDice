@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GameOfDice.Models
 {
-    class Player
+    public class Player
     {
         public string name { get; set; }
         public int score { get; set; }
