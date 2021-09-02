@@ -10,3 +10,8 @@ Game Of Dice is a console application to simulate a dice rolling game that can b
 
 - Visual Studio 2019
 - .Net 5.0
+
+## Run the app
+
+- Open the solution in Visual Studio 2019
+- Press ```Ctrl```+```F5``` to run the program
